@@ -1,2 +1,2 @@
 # SchoolManagment
-A little project about manage school for study.
+小型学校管理系统
